@@ -52,3 +52,8 @@ Após compilar o projeto, execute o programa com a seguinte sintaxe:
 
 ---
 ```
+
+# Author(s)
+
+Kauã do Vale Ferreira - kkvale27@gmail.com.
+Flávio Oliveira da Silva Junior - flavinhoj78@gmail.com.
