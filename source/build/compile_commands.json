@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/maverick/Dropbox/P1/trabalho-05-bar-chart-race-spiderverse/source/build",
+  "command": "/usr/bin/c++  -I/home/maverick/Dropbox/P1/trabalho-05-bar-chart-race-spiderverse/source/libs -Wall -pedantic -g -o CMakeFiles/bcr.dir/main.cpp.o -c /home/maverick/Dropbox/P1/trabalho-05-bar-chart-race-spiderverse/source/main.cpp",
+  "file": "/home/maverick/Dropbox/P1/trabalho-05-bar-chart-race-spiderverse/source/main.cpp",
+  "output": "CMakeFiles/bcr.dir/main.cpp.o"
+},
+{
+  "directory": "/home/maverick/Dropbox/P1/trabalho-05-bar-chart-race-spiderverse/source/build",
+  "command": "/usr/bin/c++  -I/home/maverick/Dropbox/P1/trabalho-05-bar-chart-race-spiderverse/source/libs -Wall -pedantic -g -o CMakeFiles/bcr.dir/rsc/animation_manager.cpp.o -c /home/maverick/Dropbox/P1/trabalho-05-bar-chart-race-spiderverse/source/rsc/animation_manager.cpp",
+  "file": "/home/maverick/Dropbox/P1/trabalho-05-bar-chart-race-spiderverse/source/rsc/animation_manager.cpp",
+  "output": "CMakeFiles/bcr.dir/rsc/animation_manager.cpp.o"
+},
+{
+  "directory": "/home/maverick/Dropbox/P1/trabalho-05-bar-chart-race-spiderverse/source/build",
+  "command": "/usr/bin/c++  -I/home/maverick/Dropbox/P1/trabalho-05-bar-chart-race-spiderverse/source/libs -Wall -pedantic -g -o CMakeFiles/bcr.dir/rsc/database.cpp.o -c /home/maverick/Dropbox/P1/trabalho-05-bar-chart-race-spiderverse/source/rsc/database.cpp",
+  "file": "/home/maverick/Dropbox/P1/trabalho-05-bar-chart-race-spiderverse/source/rsc/database.cpp",
+  "output": "CMakeFiles/bcr.dir/rsc/database.cpp.o"
+}
+]

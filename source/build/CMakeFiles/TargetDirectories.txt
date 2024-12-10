@@ -1,0 +1,3 @@
+/home/maverick/Dropbox/P1/trabalho-05-bar-chart-race-spiderverse/source/build/CMakeFiles/bcr.dir
+/home/maverick/Dropbox/P1/trabalho-05-bar-chart-race-spiderverse/source/build/CMakeFiles/edit_cache.dir
+/home/maverick/Dropbox/P1/trabalho-05-bar-chart-race-spiderverse/source/build/CMakeFiles/rebuild_cache.dir

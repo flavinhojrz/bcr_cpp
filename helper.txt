@@ -1,0 +1,6 @@
+Usage: bcr [<options>] <input_data_file>
+  Bar Chart Race options:
+      -b  <num> Max # of bars in a single char.
+                Valid range is [1,15]. Default values is 5.
+      -f  <num> Animation speed in fps (frames per second).
+                Valid range is [1,24]. Default value is 24.
